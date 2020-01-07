@@ -114,6 +114,8 @@ THE SOFTWARE.
 
 @angular/material/button
 
+@angular/material/button-toggle
+
 @angular/material/card
 
 @angular/material/checkbox
@@ -127,6 +129,8 @@ THE SOFTWARE.
 @angular/material/divider
 
 @angular/material/form-field
+
+@angular/material/grid-list
 
 @angular/material/icon
 
